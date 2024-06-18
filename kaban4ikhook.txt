@@ -1,6 +1,6 @@
 getgenv().values = {}
-getgenv().Version = "0.999"; -- Your version, only 0.999
-getgenv().Build = "beta"; -- Your build, can be changed to basic
+getgenv().Version = "0.999"; -- Your version
+getgenv().Build = "beta"; -- Your build
 getgenv().Name = "kaban4ikhook"; 
 getgenv().Theme = {
     Border = Color3.fromRGB(0, 0, 0),
