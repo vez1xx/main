@@ -7,7 +7,6 @@ getgenv().Theme = {
     Border2 = Color3.fromRGB(0, 255, 60),
     Background = Color3.fromRGB(0, 102, 51),
     Accent = Color3.fromRGB(255, 255, 255),
-    Gradient = game:HttpGet("https://imgur.com/a/kWtEmXR"),
     -- Gradient = game:HttpGet("https://i.imgur.com/5hmlrjX.png"),
 
     TextColor = Color3.fromRGB(255, 255, 255),
